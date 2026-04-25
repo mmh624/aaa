@@ -1,13 +1,3 @@
----
-AIGC:
-    ContentProducer: Minimax Agent AI
-    ContentPropagator: Minimax Agent AI
-    Label: AIGC
-    ProduceID: 24d847d6e5380d7f0ca585f0900b2ec6
-    PropagateID: 24d847d6e5380d7f0ca585f0900b2ec6
-    ReservedCode1: 3045022009c2b0d6dcde7d3606e139ae068c927158a7990834e4c10e18324d8fa05a400b022100a7527e5d2d2105b37b171a1f4ddca67a734a28fb0c90d7839a61926fc8a326f0
-    ReservedCode2: 304502207e944db7791700dd81ffdaa0566145875525b415ffdd7b490789ceabbbd965cd022100b005a059cedfeb91a402d782f4ccad2f69350f8949150fb713c81f72376a9e7c
----
 
 # Game of Thrones Character Search Engine & Network Analysis
 
