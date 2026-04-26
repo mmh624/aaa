@@ -70,7 +70,7 @@ weight = 1 + (in_degree(target_node) / max_in_degree) * 9
 |-------|---------|
 | **Course** | Advanced Agile Data Analysis |
 | **Instructor** | Fabien PFAENDER |
-| **Student** | Mei Minghao  Fatine Knidla  He Mingle |
+| **Student** | Mei Minghao；He Mingle；Fatine Knidla |
 
 >  **About This Course**: This assignment is part of the *Advanced Agile Data Analysis* course taught by Professor Fabien PFAENDER. 
 
