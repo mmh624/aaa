@@ -139,9 +139,12 @@ python -c "import pandas, networkx, spacy, bs4; print('All packages installed su
 
 ```
 project/
-├── HTML/                       # Downloaded character pages，but only a small part is listed here，we can get all by use 1_scrape_pages.py
+├── HTML/                      # Downloaded character pages，but only a small part is listed here，we can get all by use 1_scrape_pages.py
 │   ├── Arya_Stark.html
 │   ├── Jon_Snow.html
+│   └── ...
+├── pictres                    # pictures used in README
+│   ├── 1.png
 │   └── ...
 ├── 1_scrape_pages.py          # Step 1: Web scraping
 ├── 2_extract_features.py      # Step 2: Feature extraction
