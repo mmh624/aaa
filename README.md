@@ -216,8 +216,8 @@ The code implements comprehensive validation:
 
 | Group | Features | Description |
 |-------|----------|-------------|
-| **Identity** | title, og_title, meta_description | Basic page identification |
-| **Infobox** | allegiances, culture, born, died, spouses | Structured character data |
+| **Identity** | title, og_title, meta_description, article_id | Basic page identification |
+| **Infobox** | allegiances, culture, born, died, spouses, infobox_fields_count | Structured character data |
 | **Names** | aliases, all_name_variants | Alternative names and titles |
 | **Text** | text_length, word_count, paragraph_count | Content metrics |
 | **Structure** | sections, section_count | Page organization |
@@ -226,11 +226,11 @@ The code implements comprehensive validation:
 | **Images** | has_portrait, gallery_image_count | Visual content |
 | **Page** | page_size_bytes | File metadata |
 
-#### Comparison with Teacher's Dataset | 与教师数据集对比
+#### Comparison with Teacher's simple Dataset | 与教师数据集对比
 
 ```
-Teacher's Dataset:    ~20 features (basic)
-Our Implementation:   ~40+ features (comprehensive)
+Teacher's simple Dataset:    ~9 features (but I know the teacher has a version with 40 features, while I only have more than 20).
+Our Implementation:          ~20+ features (comprehensive)
 ```
 
 #### Output | 输出
