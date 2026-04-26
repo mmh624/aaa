@@ -13,7 +13,7 @@
 ---
 
 ##  Results | 结果
-
+<!-- ![Project Cover](pictures/your-cover-image.png) -->
 ### Network Visualization Achievement | 网络可视化成果
 
 | Metric | Initial Network | Final Optimized Network |
