@@ -44,6 +44,8 @@ weight = 1 + (in_degree(target_node) / max_in_degree) * 9
 <!-- ![Before vs After](path-to-comparison-image.png) -->
 Before weight optimization
 ![Before](pictures/1.png)
+
+
 After weight optimization
 ![After](pictures/2.png)
 
