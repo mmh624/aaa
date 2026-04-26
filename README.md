@@ -503,9 +503,7 @@ for u, v in edges:
     G_core.add_edge(u, v, weight=weight)
 ```
 
-**Weight Formula**:
 
-$$\text{Weight} = 1 + \frac{\text{in\_degree}(v)}{\text{max\_in\_degree}} \times 9$$
 
 **Result**: Edge weights range from 1 to 10, where:
 
