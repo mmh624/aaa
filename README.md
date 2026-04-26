@@ -42,6 +42,7 @@ weight = 1 + (in_degree(target_node) / max_in_degree) * 9
 
 <!-- YOUR SECOND IMAGE PLACEHOLDER - Add before/after comparison -->
 <!-- ![Before vs After](path-to-comparison-image.png) -->
+![Before](pictures/1.png)   ![After](pictures/2.png)
 
 ---
 
@@ -298,8 +299,7 @@ nx.write_gexf(G, 'awoif.gexf')  # Gephi-compatible format
 
 The initial network appears dense and cluttered with 3,000+ nodes, making it difficult to identify key characters and their relationships.
 
-<!-- YOUR IMAGE PLACEHOLDER - Initial dense network -->
-<!-- ![Initial Network](path-to-initial-network.png) -->
+![Initial Network - 3000+ Nodes](pictures/3.png)
 
 ---
 
@@ -541,8 +541,7 @@ The optimized network with dynamic edge weights provides:
 - **Preserved relationships**: Key character connections maintained
 - **Enhanced readability**: Clean, professional appearance
 
-<!-- YOUR IMAGE PLACEHOLDER - Final optimized network -->
-<!-- ![Final Network](path-to-final-network.png) -->
+![Final Optimized Network - 102 Nodes](pictures/4.png)
 
 ---
 
