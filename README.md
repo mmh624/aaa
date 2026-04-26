@@ -2,14 +2,13 @@
 # A Wiki of Ice and Fire - Character Search Engine
 
 > A comprehensive knowledge graph and search engine for Game of Thrones characters, built with Python, NetworkX, and modern NLP techniques.
-![Character Network Visualization](pictures/4.png)
-
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.6+-green.svg)](https://networkx.org/)
 [![spaCy](https://img.shields.io/badge/spaCy-3.0+-orange.svg)](https://spacy.io/)
+![Character Network Visualization](pictures/4.png)
 
----
+## This Gephi visualization depicts the character interaction network of Game of Thrones. Node size is mapped to PageRank scores to reflect each character’s global narrative influence, while color coding is generated via Gephi’s native Modularity algorithm to partition the network into distinct communities aligned with the series’ core factions. Edge thickness is weighted by the in-degree of the target node, highlighting connections to high-influence characters. Refined transparency adjustments for nodes and edges, plus label size scaled proportionally to node dimensions, optimize readability of this dense network while preserving full topological detail.
 
 ##  Results | 结果
 
