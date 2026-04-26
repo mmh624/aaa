@@ -129,18 +129,19 @@ python -c "import pandas, networkx, spacy, bs4; print('All packages installed su
 
 ```
 project/
-├── 1_scrape_pages.py          # Step 1: Web scraping
-├── 2_extract_features.py      # Step 2: Feature extraction
-├── 3-6_final_analysis.py      # Steps 3-6: Analysis pipeline
-├── HTML/                       # Downloaded character pages
+├── HTML/                       # Downloaded character pages，but only a small part is listed here，we can get all by use 1_scrape_pages.py
 │   ├── Arya_Stark.html
 │   ├── Jon_Snow.html
 │   └── ...
+├── 1_scrape_pages.py          # Step 1: Web scraping
+├── 2_extract_features.py      # Step 2: Feature extraction
+├── 3-6_final_analysis.py      # Steps 3-6: Analysis pipeline
 ├── awoif_heavy.pkl            # Teacher's base dataset
 ├── awoif_heavy2.pkl           # Our enhanced features
 ├── awoif.gexf                 # Initial network
 ├── awoif_core_characters_weighted.gexf  # Weighted network
-└── awoif_core_characters_final.gexf     # Final optimized network
+├── awoif_core_characters_final.gexf     # Final optimized network
+└── network picture.pdf        # the final Gephi picture
 ```
 
 ---
