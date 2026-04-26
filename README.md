@@ -66,6 +66,16 @@ weight = 1 + (in_degree(target_node) / max_in_degree) * 9
 
 ## Overview | 项目概述
 
+| Field | Details |
+|-------|---------|
+| **Course** | Advanced Agile Data Analysis |
+| **Instructor** | Fabien PFAENDER |
+| **Institution** | [Your University Name] |
+
+>  **About This Course**: This assignment is part of the *Advanced Agile Data Analysis* course taught by Professor Fabien PFAENDER. 
+
+---
+
 This project implements a complete character search engine for "A Song of Ice and Fire" (Game of Thrones book series) using data from [A Wiki of Ice and Fire](https://awoiaf.westeros.org/).
 
 **Course Context**: This assignment was developed for a data science course focusing on information retrieval, network analysis, and NLP techniques. The project demonstrates:
@@ -612,7 +622,8 @@ Created as a course assignment demonstrating web scraping, network analysis, and
 
 ##  Acknowledgments | 致谢
 
-- **Course Instructor**: For providing the project framework and base dataset
-- **A Wiki of Ice and Fire**: For maintaining the character database
-- **NetworkX**: For graph analysis tools
+- **Professor Fabien PFAENDER**: For designing the Advanced Agile Data Analysis course and providing the project framework
+- **A Wiki of Ice and Fire**: For maintaining the comprehensive character database
+- **NetworkX**: For powerful graph analysis tools
 - **spaCy**: For NLP capabilities
+- **cloudscraper**: For enabling ethical web scraping
