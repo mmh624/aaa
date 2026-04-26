@@ -81,7 +81,7 @@ After weight optimization
 | **Course** | Advanced Agile Data Analysis |
 | **Instructor** | Fabien PFAENDER |
 | **Primary Contributor** | Mei Minghao |
-| **Contributo** |  Fatine Knidla；He Mingle|
+| **Contributor** |  Fatine Knidla；He Mingle|
 
 >  **About This Course**: This assignment is part of the *Advanced Agile Data Analysis* course taught by Professor Fabien PFAENDER. 
 
