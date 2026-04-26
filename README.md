@@ -42,7 +42,10 @@ weight = 1 + (in_degree(target_node) / max_in_degree) * 9
 
 <!-- YOUR SECOND IMAGE PLACEHOLDER - Add before/after comparison -->
 <!-- ![Before vs After](path-to-comparison-image.png) -->
-![Before](pictures/1.png)   ![After](pictures/2.png)
+Before weight optimization
+![Before](pictures/1.png)
+After weight optimization
+![After](pictures/2.png)
 
 ---
 
