@@ -2,9 +2,9 @@
 # A Wiki of Ice and Fire - Character Search Engine
 
 > A comprehensive knowledge graph and search engine for Game of Thrones characters, built with Python, NetworkX, and modern NLP techniques.
+<!-- 插入点1：封面展示图 -->
+<!-- ![Project Cover](pictures/your-cover-image.png) -->
 
-<!-- YOUR IMAGE PLACEHOLDER - Add your visualization image here -->
-<!-- ![Character Network Visualization](path-to-your-image.png) -->
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2.6+-green.svg)](https://networkx.org/)
@@ -13,7 +13,8 @@
 ---
 
 ##  Results | 结果
-<!-- ![Character Network Visualization](path-to-your-image.png) -->
+
+
 ### Network Visualization Achievement | 网络可视化成果
 
 | Metric | Initial Network | Final Optimized Network |
